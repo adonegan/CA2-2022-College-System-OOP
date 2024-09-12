@@ -1,0 +1,11 @@
+ModuleId,ModuleName,CourseCode,Department,Lecturer_Email,Lecturer_Name,Lecturer_StaffId,Lecturer_Speciality,Lecturer_Qualification
+1001,Research Methods,TA_KCOMP_HD,Computing,Gy.Cch@TUD.com,Gy Cch,11001,DevOps,MSC
+1002,Python 1,TA_KCOMP_HD,Computing,Ka.Nan@TUD.com,Ka Nan,11002,SW,PHD
+1003,Python 2,TA_KCOMP_HD,Computing,Kren.Nlan@TUD.com,Kren Nlan,11003,SW,MSC
+1004,Databases,TA_KCOMP_HD,Computing,Roin.Frty@TUD.com,Roin Frty,11004,Databases,MSC
+1005,Networking,TA_KCOMP_HD,Computing,Ada.Ofaell@TUD.com,Ada O Faell,11005,Networking,MSC
+1006,Operating Systems,TA_KCOMP_HD,Computing,Pese.McCthy@TUD.com,Pese McCthy,11006,OS,BSC
+1007,Systems Analysis,TA_KCOMP_HD,Computing,Kiih.Kly@TUD.com,Kiih Kly,11007,Systems Analysis,BSC
+1008,Web UI,TA_KCOMP_HD,Computing,Pul.Dhue@TUD.com,Pul Dhue,11008,Web,MSC
+1009,AI,TA_KCOMP_HD,Computing,Kth.Qlle@TUD.com,Kth Qlle,11009,Machine Learning,PHD
+1010,Data Analysis,TA_KCOMP_HD,Computing,Jena.Vic@TUD.com,Jena Vic,11010,DA,PHD
